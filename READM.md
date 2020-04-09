@@ -1,0 +1,1 @@
+This is a whack-a-mole javascript game app
